@@ -1,0 +1,13 @@
+prefix=/Users/nguyenminhtien/Documents/Visual Code/DSImplement/venv
+exec_prefix=/Users/nguyenminhtien/Documents/Visual Code/DSImplement/venv
+libdir=/Users/nguyenminhtien/Documents/Visual Code/DSImplement/venv/lib
+sharedlibdir=/Users/nguyenminhtien/Documents/Visual Code/DSImplement/venv/lib
+includedir=/Users/nguyenminhtien/Documents/Visual Code/DSImplement/venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
