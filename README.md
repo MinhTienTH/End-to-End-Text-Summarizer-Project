@@ -1,6 +1,6 @@
-# End to end Text-Summarizer-Project
+# 🚀End to end Text-Summarizer-Project🚀
 
-## Workflows
+## 🔍Workflows
 
 1. Update config.yaml
 2. Update params.yaml
@@ -12,8 +12,8 @@
 8. update the app.py
 
 
-# How to run?
-### STEPS:
+# 📂How to run?
+### 💻 STEPS:
 
 Clone the repository
 
